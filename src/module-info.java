@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author andryck
+ *
+ */
+module emailApp {
+}
